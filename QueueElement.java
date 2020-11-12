@@ -2,7 +2,7 @@
 /**
  * You must use this class when constructing your Queue.  This class represents a link of the
  * linked list.  Your queue will be composed of these links.
- * @author
+ * @author Henri Feinaj.
  *
  */
 public class QueueElement<E> {
