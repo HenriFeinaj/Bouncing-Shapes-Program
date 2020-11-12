@@ -5,7 +5,7 @@
  * will use a linked list constructed by QueueElements.  However, your queue must be general and allow
  * setting of any type of Object.  Also you cannot use ArrayLists or arrays (you will get zero).
  *
- * @author you
+ * @author Henri Feinaj.
  *
  */
 import java.util.NoSuchElementException;
