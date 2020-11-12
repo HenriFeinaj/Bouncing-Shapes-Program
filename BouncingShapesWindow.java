@@ -19,7 +19,7 @@ import javafx.util.Duration;
 
 /**
  *
- * @author
+ * @author Henri Feinaj.
  *
  */
 public class BouncingShapesWindow {
