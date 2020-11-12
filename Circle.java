@@ -5,7 +5,7 @@
  * Circle.java
  * @version 2.0.0
  * Originally written by Bette Bultena but heavily modified for the purposes of 
- *
+ * "CS-115 Programming Module".
  */
 
 import javafx.scene.paint.Color;
